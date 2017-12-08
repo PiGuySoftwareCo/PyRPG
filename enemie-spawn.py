@@ -1,5 +1,6 @@
 import random
 import time
+import python-rpg
 class orcs:
     orc_basic={"hp":25, "weapon":(random.choice(darts,knife))}
     orc_archer={"hp":15, "weapon":(random.choice(darts,bow))}

@@ -7,4 +7,4 @@ class orcs:
         for b in range(0,number):
             if caste=="basic":
                 new_bot={}
-                eval("orc_bot_"+str(n)+"={})
+                eval("orc_bot_"+str(n)+"={}")

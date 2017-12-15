@@ -1,6 +1,6 @@
-player_data={'name': 'devlyn', 'gender': 'male', 'max_hp': 100, 'hp': 100, 'max_mp': 20, 'mp': 20, 'xp': 0, 'max_inv': 20, 'inv': 20, 'gold': 0}
+player_data={'name': '', 'gender': '', 'max_hp': 100, 'hp': 100, 'max_mp': 20, 'mp': 20, 'xp': 0, 'max_inv': 20, 'inv': 20, 'gold': 0}
 locations={'home': 0, 'base': 1}
 weapons=[]
 inventory=[]
-items=<class '__main__.items'>
-loc=home
+items=<class 'pythonrpg.items'>
+loc=
